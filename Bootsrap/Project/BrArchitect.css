@@ -1,0 +1,101 @@
+.navbar{
+    background-color: whitesmoke;
+    height: 60px;
+    box-shadow:5px 2px 2px 2px gray;
+}
+#navs{
+    position: sticky;
+    top: 0;
+}
+.navbar a{
+    text-decoration: none ;
+    color: black;
+}
+div span{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: larger;
+    font-weight: bold;
+}
+#id1 {
+    padding-top: 20px;
+}
+.img{
+    height: 200px;
+    width: 330px;
+    position:absolute;
+    
+}
+
+#house1{
+   
+    position:relative;
+    top: 0;
+    background-color: black;
+    color: whitesmoke;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+} 
+.A.container-fluid{
+    margin-top: 200px;
+    padding-left: 40PX;
+    padding-right: 45px;
+}
+.B.container-fluid{
+   
+    padding-left: 40PX;
+    padding-right: 45px;
+}
+.c.container-fluid{
+    padding-top: 180px;
+    padding-left: 20px;
+}
+.d.container-fluid{
+    padding-left: 20px;
+}
+div #pos{
+    padding-left: 10px;
+    opacity: 0.5;
+}
+div #name{
+    font-weight: bold;
+    font-size: large;
+    padding-left: 10px;
+}
+div #con{
+    font-size: medium;
+    font-weight: normal;
+    width: 300px;
+}
+#bb .b1{
+    height: 40px;
+    width: 300px;
+    border: none;
+    opacity: 0.6;
+
+}
+.d.container-fluid img{
+    height: 250px;
+    width: 350px;
+}
+#contact{
+    padding-right: 40px;
+    margin-right: 20px;
+}
+.e.container-fluid{
+  
+    padding-left: 20px;
+}
+.e.container-fluid .t1{
+    width: 100%;
+    margin-top: 20px;
+}
+.e.container-fluid .bt2{
+    background-color: black;
+    margin-top: 20px;
+    color: whitesmoke;
+}
+.f.container-fluid iframe{
+    margin-bottom: 40px;
+    margin-top: 20px;
+}
